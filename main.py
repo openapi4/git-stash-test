@@ -226,6 +226,7 @@ generate_button.grid(row=3, column=2)
 
 
 "master commit 1"
-
+"v7 with untracked"
+"mergedd with master"
 
 window.mainloop()
